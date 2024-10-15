@@ -1,7 +1,7 @@
 # Portfolio
 Zawarty w portfolio plik Excel zawiera 2 strategidotyczące kupna mieszkania (za kredyt lub nie) oraz zawiera ich porównanie.
 
-Strtegia 1: polega na oszczędzaniu pieniędzy przez wiele lat, a po tym czasie zakupieniu mieszkania.
+Strategia 1: polega na oszczędzaniu pieniędzy przez wiele lat, a po tym czasie zakupieniu mieszkania.
 
 Strategia 2: polega na wzięciu kredytu na x lat, kupieniu mieszkania i spłacie kredytu.
 
