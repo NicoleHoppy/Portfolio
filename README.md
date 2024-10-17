@@ -7,7 +7,7 @@ Zawarty w portfolio plik Excel zawiera 2 strategie dotyczące kupna mieszkania (
 
 - Arkusz 2 - Strategia 2: polega na wzięciu kredytu na x lat, kupieniu mieszkania i spłacie kredytu.
 
-# Wnioski:
+## Wnioski:
 
 - Strategia 1: Dłuższy czas oczekiwania na zakup mieszkania oraz wyższe koszty bieżącego wynajmu. Jednak po zakupie mieszkania nie trzeba przejmować się spłatą odsetek.
 
