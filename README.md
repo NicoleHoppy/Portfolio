@@ -3,11 +3,15 @@ Zawarty w portfolio plik Excel zawiera 2 strategie dotyczące kupna mieszkania (
 
 - Arkusz 1 - Strona Główna: zawiera podstawowe dane wejściowe do obliczeń oraz podsumowanie wyników obu strategii.
 
-![Strona Główna](images/excel1.png)
+![Arkusz 1 - Strona Główna](images/excel1.png)
 
 - Arkusz 2 - Strategia 1: polega na oszczędzaniu pieniędzy przez wiele lat, a po tym czasie zakupieniu mieszkania.
 
+![Arkusz 2 - Strategia 1](images/excel2.png)
+
 - Arkusz 3 - Strategia 2: polega na wzięciu kredytu na x lat, kupieniu mieszkania i spłacie kredytu.
+
+![Arkusz 3 - Strategia 2](images/excel3.png)
 
 ## Wnioski:
 
