@@ -6,7 +6,7 @@ Odpowiedź będzie mógł znaleźć poniżej. Przygotowałam plik Excel* zawiera
 
 *Samo narzędzie nie jest w żaden sposób poradą finansową. Jest to proste symulacja do testowania na swoich danych możliwych rezultatów. Zapraszam do sprawdzenia!
 
-# Portfolio
+# Excel - opis
 Zawarty w portfolio plik Excel zawiera 2 strategie dotyczące kupna mieszkania (za kredyt lub nie) oraz zawiera ich porównanie.
 
 - Arkusz 1 - Strona Główna: zawiera podstawowe dane wejściowe do obliczeń oraz podsumowanie wyników obu strategii.
