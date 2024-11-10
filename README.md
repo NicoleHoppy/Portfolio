@@ -11,6 +11,6 @@ Zawarty w portfolio plik Excel zawiera 2 strategie dotyczące kupna mieszkania (
 
 - Strategia 1: Dłuższy czas oczekiwania na zakup mieszkania oraz wyższe koszty bieżącego wynajmu. Jednak po zakupie mieszkania nie trzeba przejmować się spłatą odsetek.
 
-- Strategia 2: Szybszy zakup mieszkania przez co odpadają wysokie koszty wynajmu, jednak pojawiają się koszty w postaci odsetek. Jednak osoba decydująca się na tą strategię może od razu cieszyć się własnym mieszkaniem.
+- Strategia 2: Szybszy zakup mieszkania przez co odpadają wysokie koszty wynajmu, jednak pojawiają się koszty w postaci odsetek. Osoba decydująca się na tą strategię może od razu cieszyć się własnym mieszkaniem.
 
 Obie strategie mają swoje plusy i minusy, najważniejsze jest wybranie najlepszej strategii pod swoje parametry. Interaktywne podsumowanie pomaga w czasie rzeczywistym śledzić zmiany, które użytkownik wprowadza do obu strategii.
